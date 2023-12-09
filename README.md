@@ -1,6 +1,12 @@
 # AI Toolkit Pro
 
 AI Toolkit Pro is a full-stack application that offers a range of AI functionalities such as Text-to-Image conversion, Article Summarization, and a Custom Chatbot. The application is seamlessly integrated with Stripe for premium feature access, positioning it as a ready-to-launch business application with built-in monetization capabilities.
+## Demo
+
+Watch the AI Toolkit demo below:
+
+[![AI Toolkit Demo](https://img.youtube.com/vi/lKo0IfX_tV4/0.jpg)](https://youtu.be/lKo0IfX_tV4 "AI Toolkit Demo")
+
 
 ## Table of Contents
 
